@@ -5,7 +5,7 @@ This is an express middleware that validates Azure Active Directory-issued JsonW
 ## Install
 
 ```
-npm i express-aad-jwt
+npm i @kevinhle/express-aad-jwt
 ```
 
 ## Usage
