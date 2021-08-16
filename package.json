@@ -1,10 +1,10 @@
 {
   "name": "@kevinhle/express-aad-jwt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "express middleware that validates Azure Active Directory-issued JsonWebToken (JWT) and set the req.user with the decoded JWT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
