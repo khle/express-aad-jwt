@@ -1,0 +1,28 @@
+{
+  "name": "express-aad-jwt",
+  "version": "1.0.0",
+  "description": "express middleware that validates Azure Active Directory-issued JsonWebToken (JWT) and set the req.user with the decoded JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khle/express-aad-jwt.git"
+  },
+  "keywords": [
+    "jwt",
+    "express",
+    "azure",
+    "activedirectory"
+  ],
+  "author": "Kevin H Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khle/express-aad-jwt/issues"
+  },
+  "homepage": "https://github.com/khle/express-aad-jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
